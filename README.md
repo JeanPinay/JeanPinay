@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeanPinay
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML, CSS and JS.
+- 🌱 I’m Junior Web Developer(Backend).
 - 📫 How to reach me just send an email: livarajean@gmail.com
 
 <!---
