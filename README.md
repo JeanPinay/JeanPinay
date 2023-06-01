@@ -8,8 +8,8 @@
   - Version Control: Git, GitHub
   - Editor: VSCode
   
- - 🔥 Featured Projects
-  - Project 1: Cat Astrology website using Laravel. A website where you can find the Zodiac sign of your cat and you can post your cat too. I used Bootstrap and CSS for      interface.
+- 🔥 Featured Projects
+   - Project 1: Cat Astrology website using Laravel. A website where you can find the Zodiac sign of your cat and you can post your cat too. I used Bootstrap and CSS for      interface.
   
   Feel free to explore more of my small projects on my portfolio.
 
