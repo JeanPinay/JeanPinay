@@ -11,7 +11,7 @@
 - 🔥 Featured Projects
    - Project 1: Cat Astrology website using Laravel. A website where you can find the Zodiac sign of your cat and you can post your cat too. I used Bootstrap and CSS for      interface.
   
-  Feel free to explore more of my small projects on my portfolio.
+  Feel free to explore more of my small projects on my portfolio.(https://clinquant-kulfi-02256d.netlify.app)
 
 - 📫 Get in Touch
   - LinkedIn: https://www.linkedin.com/in/jean-livara-07b2b725a/
