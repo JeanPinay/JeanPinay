@@ -19,9 +19,9 @@
 
 - 🌱 Learning Goals
   I'm passionate about continuous learning and currently focused on:
-
+  
   - Expanding my knowledge of Front-end frameworks.
-  - Currently taking  (AWS)
+  - Currently taking Amazon Web Services course.
   
 
   ✨"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt✨
