@@ -20,7 +20,7 @@
   - Email: livarajean@gmail.com
 
 - 🌱 Learning Goals
-  I'm passionate about continuous learning and currently focused on:
+  - I'm passionate about continuous learning and currently focused on:
   
   - Expanding my knowledge of Front-end frameworks.
   - Currently taking Amazon Web Services course.
