@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm Jean Pinay
+- 👋 Hi there! I'm Jean Livara
 - 🌱 I’m a Junior Web Developer(Backend).
 
 - 💻 Skills & Technologies
