@@ -9,7 +9,7 @@
   - Editor: VSCode
   
 - 🔥 Featured Projects
-   - Project 1: Cat Astrology website using Laravel. A website where you can find the Zodiac sign of your cat and you can post your cat too. I used Bootstrap and CSS for      interface.
+   - Project 1: Cat Astrology website using Laravel. A website where you can find the Zodiac sign of your cat and you can post your cat pics too. I used Bootstrap and CSS for interface.
    - Project 2: Ideas logbook, this a full stack project using Node.js for server side and Javascript, CSS and HTML for client side.
    - Project 3: Group project from the training. We made a website similar to Craiglist using Laravel and for the interface is CSS/SASS.
   
