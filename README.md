@@ -13,7 +13,7 @@
    - Project 2: Ideas logbook, this a full stack project using Node.js for server side and Javascript, CSS and HTML for client side.
    - Project 3: Group project from the training. We made a website similar to Craiglist using Laravel and for the interface is CSS/SASS.
   
-  Feel free to explore more of my small projects on my portfolio.(https://jean-livara.netlify.app)
+  Feel free to explore more of my small projects on my portfolio.(https://jean-livara-portfolio2023.netlify.app/)
 
 - 📫 Get in Touch
   - LinkedIn: https://www.linkedin.com/in/jean-livara-07b2b725a/
