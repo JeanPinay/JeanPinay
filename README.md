@@ -11,7 +11,7 @@
 - 🔥 Featured Projects
    - Project 1: Cat Astrology website using Laravel. A website where you can find the Zodiac sign of your cat and you can post your cat pics too. I used Bootstrap and CSS for the interface.
    - Project 2: Ideas logbook, this a full stack project using Node.js for the server side and Javascript, CSS, and HTML for the client side.
-   - Project 3: Group project from the training. We made a website similar to Craiglist using Laravel and the interface is CSS/SASS.
+   - Project 3: Group project from the training. We made a website similar to Craiglist using Laravel and the interface is CSS/SASS. (http://www.10-dots.com/)
   
   Feel free to explore more of my small projects on my portfolio.(https://jean-livara-portfolio2023.netlify.app/)
 
