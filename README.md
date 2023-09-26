@@ -1,4 +1,5 @@
 - 👋 Hi there! I'm Jean Livara
+  ➡️  ➡️  ➡️  ➡️ Update: I'm working in a company now as Junior Developer 
 - 🌱 I’m a Junior Web Developer(Backend).
 
 - 💻 Skills & Technologies
