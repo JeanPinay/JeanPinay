@@ -10,7 +10,7 @@
   - Editor: VSCode
   
 - 🔥 Featured Projects
-   - Project 1: Cats and Everything website using Laravel. A website where you can find the Zodiac sign of your cat, post in a forum, shop, and book a cat sitter (I am the cat sitter). I used Bootstrap and CSS for the interface. (IN PROGRESS)
+   - Project 1: Cats and Everything website using Laravel. A website where you can find the Zodiac sign of your cat, post in a forum, shop, and book a cat sitter (I am the cat sitter). I used Bootstrap and CSS for the interface. (80% done just need to deploy and do some final tuning)
    - Project 2: Ideas logbook, this a full stack project using Node.js for the server side and Javascript, CSS, and HTML for the client side.
    - Project 3: Group project from the training. We made a website similar to Craiglist using Laravel and the interface is CSS/SASS. (http://www.10-dots.com/)
   
