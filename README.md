@@ -24,7 +24,7 @@
   - I'm passionate about continuous learning and am currently focused on:
   
   - Expanding my knowledge of Front-end frameworks.
-  - Currently taking Amazon Web Services course.
+  
 
 - ✨ Extra
   - Article about Mailtrap https://dev.to/jeanpinay/using-mailtrap-in-laravel-5bj4 
